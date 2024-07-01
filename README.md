@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Dan
-- If you expect this to be helpful/insightful then you're going to be disappointed.
-- This is foremost a dumping ground for my projects.
-- Most of them work to a degree
-- When I wrote the code only god and i knew how it worked.
-- I have a terrible memory 
+  
+- This is foremost an archive of my projects, things that are not working will be marked as WIP
+  
 
 
 <!---
